@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Auriculares Bluetooth",
+        "precio": 250,
+        "imagen": "https://via.placeholder.com/150"
+    },
+    {
+        "nombre": "Reloj Inteligente",
+        "precio": 500,
+        "imagen": "https://via.placeholder.com/150"
+    },
+    {
+        "nombre": "Cargador Inalámbrico",
+        "precio": 150,
+        "imagen": "https://via.placeholder.com/150"
+    }
+]
